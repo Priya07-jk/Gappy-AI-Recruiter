@@ -35,5 +35,7 @@ We built a Lemma Pod that transforms hours of tedious manual screening into an i
    npm run dev
    ```
 
-## 📸 Screenshots
-*(Add a screenshot of your dashboard here)*
+##  Screenshots
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/4e58222c-5829-4f4a-8cd4-498035f5a013" />
+
+
