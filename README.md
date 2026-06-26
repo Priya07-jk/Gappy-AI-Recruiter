@@ -36,6 +36,5 @@ I built a Lemma Pod that transforms hours of tedious manual screening into an in
    ```
 
 ##  Screenshots
-<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/4e58222c-5829-4f4a-8cd4-498035f5a013" />
-
+<img width="1905" height="967" alt="image" src="https://github.com/user-attachments/assets/91b919e9-c77f-47a5-9b60-290fb1676cd2" />
 
