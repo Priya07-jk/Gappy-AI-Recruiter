@@ -27,8 +27,8 @@ function App() {
           <span className="sparkle">✨</span> Lemma Recruiter
         </div>
         <div className="nav-links">
-          <button className="btn-secondary">Job Descriptions</button>
-          <button className="btn-primary">Settings</button>
+          <button className="btn-secondary" onClick={() => alert("Feature coming soon in V2!")}>Job Descriptions</button>
+          <button className="btn-primary" onClick={() => alert("Feature coming soon in V2!")}>Settings</button>
         </div>
       </header>
 
